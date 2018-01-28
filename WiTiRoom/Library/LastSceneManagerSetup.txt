@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/WiTiRoomScene.unity
+- path: Assets/Scenes/SceneDemo.unity
   isLoaded: 1
   isActive: 1
