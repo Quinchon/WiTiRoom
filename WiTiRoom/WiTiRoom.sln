@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiTiRoom", "WiTiRoom.csproj", "{D5407AA7-64EF-B23C-0D4E-487E4A888ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiTiRoom.Editor", "WiTiRoom.Editor.csproj", "{7DE79495-7A70-9257-8E63-F4639B506CEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5407AA7-64EF-B23C-0D4E-487E4A888ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5407AA7-64EF-B23C-0D4E-487E4A888ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5407AA7-64EF-B23C-0D4E-487E4A888ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5407AA7-64EF-B23C-0D4E-487E4A888ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE79495-7A70-9257-8E63-F4639B506CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE79495-7A70-9257-8E63-F4639B506CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE79495-7A70-9257-8E63-F4639B506CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE79495-7A70-9257-8E63-F4639B506CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
